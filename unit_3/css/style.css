@@ -9,9 +9,9 @@ h2 {
 }
 body {
   text-align: center;
-  background: url("images/creative_a.jpg");
+  background: url("images/creative_b.jpg");
   background-size: cover;
-  color: #F24738;
+  color: #cecece;
   font-family: Helvetica, sans-serif;
 }
 hr {
