@@ -19,8 +19,10 @@ hr {
 }
 p {
   font-size: 15px;
+  text-align: center;
 }
 #slogan {
+	text-align: center;
 	font-style: italic;
-	color: #023852;
+	color: #F24738;
 }
