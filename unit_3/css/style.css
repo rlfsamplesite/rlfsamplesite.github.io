@@ -21,6 +21,10 @@ p {
   font-size: 15px;
   text-align: center;
 }
+ul {
+	text-align: center;
+	list-style-position: inside;
+}
 #slogan {
 	text-align: center;
 	font-style: italic;
