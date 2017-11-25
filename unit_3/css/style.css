@@ -1,0 +1,25 @@
+h1 {
+  text-align: center;
+  font-weight: 700;
+  font-size: 20px;
+  color: #03A694;
+}
+h2 {
+  font-size: 10px;
+}
+body {
+  text-align: center;
+  background: url("images/creative_a.jpg");
+  background-size: cover;
+  color: #F24738;
+  font-family: Helvetica, sans-serif;
+}
+hr {
+  width: 200px;
+}
+p {
+  font-size: 22px;
+}
+#slogan {
+	font-style: italic;
+}
