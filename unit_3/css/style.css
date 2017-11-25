@@ -9,17 +9,19 @@ h2 {
 }
 body {
   text-align: center;
-  background: url("images/creative_b.jpg");
+  background: url("http://www.morganmclintic.com/wp-content/uploads/2016/03/1000820-creative-1.jpg");
   background-size: cover;
-  color: #cecece;
+  font-size: 15px;
+  color: #000;
   font-family: Helvetica, sans-serif;
 }
 hr {
   width: 200px;
 }
 p {
-  font-size: 22px;
+  font-size: 15px;
 }
 #slogan {
 	font-style: italic;
+	color: #023852;
 }
