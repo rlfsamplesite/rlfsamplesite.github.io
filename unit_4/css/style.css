@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Barlow+Condensed|Roboto+Slab');
+h1 {
+  text-align: center;
+  font-family: 'Roboto Slab';
+  font-weight: 700;
+  font-size: 20px;
+  color: #03A694;
+}
+h2 {
+  font-family: 'Barlow Condensed';
+  text-align: center;
+  font-size: 10px;
+}
+body {
+  text-align: center;
+  background: #071930;
+  background-size: cover;
+  color: #fff;
+  font-family: Helvetica, sans-serif;
+}
+hr {
+  width: 200px;
+}
+p {
+  font-family: 'Roboto Slab', serif;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 15px;
+  line-height: 1.5em;
+  margin: 2em;
+  text-align: center;
+}
+ul {
+	text-align: center;
+	list-style-position: inside;
+}
+#slogan {
+	text-align: center;
+	font-style: italic;
+	color: #F24738;
+}
