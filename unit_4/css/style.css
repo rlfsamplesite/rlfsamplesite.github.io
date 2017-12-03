@@ -24,12 +24,13 @@ hr {
 p {
   font-family: 'Roboto Slab', serif;
   font-family: 'Barlow Condensed', sans-serif;
-  font-size: 15px;
+  font-size: 18px;
   line-height: 1.5em;
   margin: 2em;
   text-align: center;
 }
 ul {
+	font-family: 'Barlow Condensed', sans-serif;
 	text-align: center;
 	list-style-position: inside;
 }
