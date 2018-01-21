@@ -10,11 +10,12 @@ h2 {
   font-family: 'Barlow Condensed';
   text-align: center;
   font-size: 10px;
+  color: #879190;
 }
 body {
   text-align: center;
   background-size: cover;
-  color: #fff;
+  color: #03A694;
   font-family: Helvetica, sans-serif;
 }
 hr {
@@ -23,6 +24,7 @@ hr {
 p {
   font-family: 'Roboto Slab', serif;
   font-family: 'Barlow Condensed', sans-serif;
+  color: #879190;
   font-size: 18px;
   line-height: 1.5em;
   margin: 2em;
@@ -30,6 +32,7 @@ p {
 }
 ul {
 	font-family: 'Barlow Condensed', sans-serif;
+	color: #879190;
 	text-align: center;
 	list-style-position: inside;
 }
@@ -62,19 +65,16 @@ section {
 #two_column{
 		padding: 20px;
 }
-
 #left {
 		padding: 20px;
 		float: left;
 		width: 30%;
 }
-
 #right {
 		padding: 20px;
 		float: right;
 		width: 62%;
 }
-
 .clearfix:after{
 	visibility: hidden;
 	display: block;
